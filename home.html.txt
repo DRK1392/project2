@@ -1,0 +1,17 @@
+<html>
+<body>
+<h1> CLONING PROCESS IN GIT </h1>
+<p> this is cloning process in wich we are cloning 
+project from github repository to our local repositroy
+then adding some changes to it
+git add
+git commit
+git push
+git mege
+git delete
+git status
+git origin
+git add , commit, push , merge , delete , status , origin , pull
+git pull</p>
+</body>
+</html>

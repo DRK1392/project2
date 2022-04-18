@@ -1,0 +1,7 @@
+<html>
+<body>
+<h2> About Suresh Techs</h2>
+<p> WE teach c c++ java andraid python web technologies git pht etc </p>
+</body>
+
+</html>
